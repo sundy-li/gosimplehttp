@@ -10,13 +10,13 @@ Gosimplehttp is a Golang implementation to replace "python -m SimpleHTTPServer"
 
 How to install
 -------------
-::
+.. code-block:: shell
 
     go get -u github.com/sundy-li/gosimplehttp
 
 Usage
 -------------
-::
+.. code-block:: shell
 
     ➜  ~   gosimplehttp -p 8000
             2017/11/25 gosimplehttp.go:25: Serving HTTP on 0.0.0.0 port 8000 ...
@@ -24,7 +24,7 @@ Usage
 
 Flag
 ------------
-::
+.. code-block:: shell
 
     ➜  ~   gosimplehttp -h
             Usage of gosimplehttp:
