@@ -34,7 +34,5 @@ Flag
                   show debug log or not
             -p string
                   port to bind (default "8000")
-            -proxy string
-                  reverse proxy
 
 
