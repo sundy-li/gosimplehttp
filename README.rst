@@ -27,12 +27,14 @@ Flag
 .. code-block:: shell
 
     ➜  ~   gosimplehttp -h
-            Usage of gosimplehttp:
-              -d string
-                    directory of the files (default ".")
-              -debug
-                    show debug log or not
-              -p string
-                    port to bind (default "8000")
+            Usage of ./gosimplehttp:
+            -d string
+                  directory of the files (default ".")
+            -debug
+                  show debug log or not
+            -p string
+                  port to bind (default "8000")
+            -proxy string
+                  reverse proxy
 
 
